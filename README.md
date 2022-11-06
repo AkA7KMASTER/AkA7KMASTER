@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkA7KMASTER
+- 👋 Hi, I’m @Abhishek
 - 👀 I’m interested in Web Dev and Soliving logical Coding Problem
 - 🌱 I’m currently learning DSA through C++
 - 📫 How to reach me : Linkdil:www.linkedin.com/in/abhishek-maurya-1ba696220
